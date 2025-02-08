@@ -36,9 +36,7 @@ The whole test was made in Spanish because it's my native language.
     py [number].py
     **Example:**
     py 5.py
-
-### Usage
-
+   
 ### Contributing
 **Steps to contribute:**
 1. Fork the repository.
