@@ -18,7 +18,6 @@ The whole test was made in Spanish because it's my native language.
 ## Installation
 
 ### Prerequisites
-List any software or tools required to run your project. For example:
 
 - Python 3.x
 - Pandas library
