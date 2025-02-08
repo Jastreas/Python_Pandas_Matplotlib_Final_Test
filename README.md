@@ -31,7 +31,7 @@ The whole test was made in Spanish because it's my native language.
    git clone https://github.com/Jastreas/Python_Pandas_Matplotlib_Final_Test.git
    ```
 2. Open the folder:
-    cd https://github.com/Jastreas/Python_Pandas_Matplotlib_Final_Test
+    cd Python_Pandas_Matplotlib_Final_Test
 3. Run the code from each exercise:
     py [number].py
     **Example:**
