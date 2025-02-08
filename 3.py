@@ -15,7 +15,7 @@ f = Figlet(font='slant')
 print(colorCyan, f.renderText("Grafica"))
 
 def Crear_Archivo():
-    archivo_csv = "Manea_eje3.csv"
+    archivo_csv = "ex_eje3.csv"
     dias_semana = ["Lunes", "Martes", "Miercoles", "Jueves", "Viernes", "Sabado", "Domingo"]
 
     # Crear y escribir en el archivo CSV
@@ -39,7 +39,7 @@ def Crear_Archivo():
 
 def Mostrar_Grafica():
     # Nombre del archivo CSV
-    archivo_csv = "Manea_eje3.csv"
+    archivo_csv = "ex_eje3.csv"
 
     # Listas para almacenar datos de la primera semana
     dias = []
